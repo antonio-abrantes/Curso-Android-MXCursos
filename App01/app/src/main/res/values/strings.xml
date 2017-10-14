@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App01</string>
+    <string name="msg01">Meu primeiro aplicativo</string>
+    <string name="msg02">Digite o seu nome</string>
+    <string name="hint01">Nome</string>
+    <string name="ok">OK</string>
+</resources>

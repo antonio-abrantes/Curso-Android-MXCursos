@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App02</string>
+    <string name="nome_do_usuario">Digite o nome do usuário</string>
+    <string name="usuario">usuario</string>
+    <string name="senha">Senha</string>
+    <string name="logar">LOGAR</string>
+</resources>

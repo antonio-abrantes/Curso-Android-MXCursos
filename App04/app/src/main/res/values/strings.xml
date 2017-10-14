@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App04</string>
+    <string name="aplicativo_titulo">Aplicativo MyCamera V 1.0.1</string>
+    <string name="foto">FOTO</string>
+    <string name="carregando">Carregando...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ver_mapa">VER MAPA</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+</resources>
